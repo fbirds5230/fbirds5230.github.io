@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://fbirds5230.github.io/sitemap.xml

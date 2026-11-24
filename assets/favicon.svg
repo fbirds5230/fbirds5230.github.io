@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="880 90 256 256" fill="none"><title>A curious purple bird</title><defs><linearGradient id="body" x1="936" y1="133" x2="1080" y2="302" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#C7A5FF"/>
+      <stop offset=".54" stop-color="#A274ED"/>
+      <stop offset="1" stop-color="#734BC1"/>
+    </linearGradient></defs>
+      <path d="M929 187H912V202H895V236H912V254H941V208Z" fill="#7851C5"/>
+      <path d="M1087 187H1104V202H1121V236H1104V254H1075V208Z" fill="#7851C5"/>
+      <path d="M932 155V112H949V127H965V144H1051V127H1067V112H1084V155H1100V172H1111V260H1095V279H1075V297H941V279H921V260H905V172H916V155Z" fill="#39265F"/>
+      <path d="M937 162V128H948V142H968V153H1048V142H1068V128H1079V162H1095V179H1106V253H1090V274H1070V291H946V274H926V253H910V179H921V162Z" fill="url(#body)"/>
+      <path d="M946 274H1070V291H946Z" fill="#6941AF"/>
+      <path d="M943 158H971V168H943ZM1045 158H1073V168H1045Z" fill="#DECAFF" fill-opacity=".55"/>
+      <rect x="931" y="177" width="61" height="61" rx="20" fill="#E6D7FF"/>
+      <rect x="1024" y="177" width="61" height="61" rx="20" fill="#E6D7FF"/>
+      <rect x="945" y="188" width="39" height="43" rx="13" fill="#151329"/>
+      <rect x="1032" y="188" width="39" height="43" rx="13" fill="#151329"/>
+      <rect x="950" y="191" width="12" height="12" rx="4" fill="#F7F3FF"/>
+      <rect x="1037" y="191" width="12" height="12" rx="4" fill="#F7F3FF"/>
+      <rect x="972" y="215" width="6" height="6" rx="2" fill="#6DE1DF"/>
+      <rect x="1059" y="215" width="6" height="6" rx="2" fill="#6DE1DF"/>
+      <path d="M996 226H1020V238H1014V249H1002V238H996Z" fill="#FFB685"/>
+      <path d="M965 255V261H976V267H987V261H998M1018 261H1029V267H1040V261H1051V255" stroke="#D2B8FF" stroke-opacity=".55" stroke-width="5"/>
+      <path d="M955 291V302H979V291M1037 291V302H1061V291" fill="#FFB685"/>
+    </svg>
